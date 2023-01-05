@@ -1,0 +1,122 @@
+header{
+    background: url('banner3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    background-position: top;
+    background-attachment: fixed;
+    margin: 0px 150px;
+    
+
+}
+.heading {
+
+  text-align: center;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.4);
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+.banner-heading {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 79px;
+  margin-bottom: 20px;
+  margin-left: 307px;
+  margin-right: 307px;
+  padding-top: 280px;
+  color: #FFFFFF;
+}
+.banner-desc {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 28px;
+  margin-bottom: 50px;
+  color: #FFFFFF;
+}
+.btn-primary {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  background: #ff5959;
+  border-radius: 5px;
+  color: #ffffff;
+  padding: 15px 15px;
+}
+/* donate today */
+
+.donate-today{
+  margin-top: 230px;
+}
+.donate-title{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 54px;
+  text-align: center;
+  
+  color: #121212;
+  margin-bottom: 30px;
+}
+.donate-desc{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+margin-bottom: 50px;
+color: #707070;
+}
+
+.input-tk{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 80px;
+}
+.btn-fk{
+border: 2px solid #FF5959;
+border-radius: 5px;
+color: #ff5959;
+padding: 30px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+}
+.btn-tk{
+
+  border:2px solid #FAFAFA;
+  border-radius: 5px;
+  padding: 30px;
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+}
+.taka{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+text-align: center;
+
+color: #B3B3B3;
+}
+hr{
+  margin: 0px 500px;
+}
