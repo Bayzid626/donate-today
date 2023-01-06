@@ -2,7 +2,7 @@ header{
     background: url('banner3.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 1000px;
+    height: 800px;
     background-position: top;
     background-attachment: fixed;
     margin: 0px 150px;
@@ -27,7 +27,7 @@ header{
   font-size: 65px;
   line-height: 79px;
   margin-bottom: 20px;
-  padding-top: 280px;
+  padding-top: 260px;
   color: #FFFFFF;
 }
 .banner-desc {
